@@ -44,3 +44,16 @@ This project shows how **Excel can serve as a Business Intelligence tool** by:
 ---
 
 ## 📂 Repository Structure  
+
+---
+
+## 📷 Dashboard Preview  
+![Dashboard Preview](Dashboard.png)  
+
+---
+
+## 🚀 Future Enhancements  
+- Integration with **Power BI or Tableau** for richer visualizations  
+- Automation with **Excel Macros / Python (Pandas, OpenPyXL)**  
+- Adding **forecasting models** for revenue prediction  
+
